@@ -261,7 +261,7 @@ footer .ff .lis:nth-child(2){
     
 }
 .product-info{
-    background-color: #cccccc;
+    background-color: white;
     border-radius: 10px;
     width: 500px;
     display: flex;
@@ -276,7 +276,7 @@ footer .ff .lis:nth-child(2){
 .product-info .product-info-text .title{
     background-color: var(--main-color);
     color: white;
-    padding: 5px 18px;
+    padding: 5px 3px;
     display:inline-block;
     margin: 20px 0 15px 0px;
     font-weight: bold;
